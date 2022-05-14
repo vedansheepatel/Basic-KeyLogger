@@ -1,1 +1,3 @@
 
+[SHIFT] type test 123 [SHIFT]google search test ... [CAPS_LOCK]CAPS LOCK[CAPS_LOCK] %%%%[UP][UP][UP][UP][UP][UP][UP][DOWN][DOWN][DOWN][DOWN]
+ [SHIFT]now terminate with cmd.[UP]
